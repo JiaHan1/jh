@@ -1,0 +1,56 @@
+2022-12-07 14:19:41,842 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,842 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,842 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,842 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,842 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 14:19:41,843 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,131 WARNING [asserts.py(common_assert:19)] - 接口名称<Response [400]>,状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,131 WARNING [asserts.py(common_assert:19)] - 接口名称<Response [400]>,状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,131 WARNING [asserts.py(common_assert:19)] - 接口名称<Response [400]>,状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,131 WARNING [asserts.py(common_assert:19)] - 接口名称<Response [400]>,状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,131 WARNING [asserts.py(common_assert:19)] - 接口名称<Response [400]>,状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,572 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:19,573 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [200]>, <Response [400]>, <Response [400]>, <Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:10:21,151 WARNING [asserts.py(common_assert:13)] - 接口名称[<Response [400]>],状态码校验失败，期望值：200, 实际值：400
+2022-12-07 15:18:43,378 WARNING [asserts.py(common_assert:19)] - 接口名称<function create_app at 0x7fef2c5fb9a0>,状态码校验失败，期望值：400, 实际值：200
+2022-12-07 15:19:38,805 WARNING [asserts.py(common_assert:19)] - 接口名称<function create_app at 0x7fd7345fb9a0>,状态码校验失败，期望值：400, 实际值：200
+2022-12-07 15:19:56,865 WARNING [asserts.py(common_assert:19)] - 接口名称create_app,状态码校验失败，期望值：400, 实际值：200

@@ -1,0 +1,20 @@
+data {'0': {'marked_file_id': 210180, 'upload_time': '2022-10-26T15:59:09.760577', 'class': 'default', 'filename': 'XiaoMeganLing_resume.pdf.2.html', 'id': 210180, 'label_time': '2022-10-27T18:21:29.088827', 'image_list': []}}
+有1个文件放到训练集
+[210180]
+data {'1': {'marked_file_id': 209572, 'upload_time': '2022-10-26T15:59:09.915483', 'class': 'default', 'filename': 'sizhu.pdf.2.html', 'id': 209572, 'label_time': '2022-10-26T16:02:08.660945', 'image_list': []}}
+有2个文件放到训练集
+[210180, 209572]
+data {'2': {'marked_file_id': 219057, 'upload_time': '2022-11-07T11:15:33.938660', 'class': 'default', 'filename': '华泰信泰精英FOF2号集合资产管理计划_申购确认单-艾方.pdf.2.html', 'id': 219057, 'label_time': '2022-11-23T11:12:49.273571', 'image_list': []}}
+有3个文件放到训练集
+[210180, 209572, 219057]
+data {'3': {'marked_file_id': 219055, 'upload_time': '2022-11-07T11:15:35.891477', 'class': 'default', 'filename': '华泰信泰精英FOF1号集合资产管理计划_思勰投资思明六十四号私募证券投资基金_20210119_113590553_申购确认单.pdf.2.html', 'id': 219055, 'label_time': '2022-11-23T11:12:48.967771', 'image_list': []}}
+有4个文件放到训练集
+[210180, 209572, 219057, 219055]
+data {'4': {'marked_file_id': 219061, 'upload_time': '2022-11-07T11:15:35.015826', 'class': 'default', 'filename': '华泰信泰精英FOF1号集合资产管理计划_千象磐石34号私募证券投资基金_20210115_113126598_申购确认单.pdf.2.html', 'id': 219061, 'label_time': '2022-11-23T11:12:49.901794', 'image_list': []}}
+有5个文件放到训练集
+[210180, 209572, 219057, 219055, 219061]
+data {'5': {'marked_file_id': 219065, 'upload_time': '2022-11-07T11:15:35.262863', 'class': 'default', 'filename': '华泰睿泰精英FOF2号集合资产管理计划_惠理中国丰泰2号私募证券投资基金_20210201_116198138_申购确认单.pdf.2.html', 'id': 219065, 'label_time': '2022-11-23T11:12:50.382784', 'image_list': []}}
+有6个文件放到训练集
+[210180, 209572, 219057, 219055, 219061, 219065]
+data {'id': 1395}
+[res_dataset_training_files] {'message': '操作成功'}

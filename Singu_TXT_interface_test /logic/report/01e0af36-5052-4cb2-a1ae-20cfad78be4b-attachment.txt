@@ -1,0 +1,3 @@
+[{'name': '元素6'}, {'name': '元素5', 'multi': False, 'app': 129}]
+{'appId': '129', 'schema': [{'name': '元素5', 'multi': False, 'app': 129}, {'name': '元素6', 'multi': False, 'app': 129}, {'name': '6改1', 'multi': False, 'app': 129}, {'name': '5改1', 'multi': False, 'app': 129}]}
+[res_schema_rename] [{'id': 1368, 'name': '6改1', 'hotkey': '1', 'multi': False, 'app': 155}, {'id': 1369, 'name': '5改1', 'hotkey': '2', 'multi': False, 'app': 155}]

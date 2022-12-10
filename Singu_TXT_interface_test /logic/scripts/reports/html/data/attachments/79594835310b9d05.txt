@@ -1,0 +1,1 @@
+res_files_to_check: [{"id":20153,"filename":"华泰启泰科瑞FOF1号集合资产管理计划_天演储能私募证券投资基金_20210205_117738290_申购确认单.pdf","upload_time":"2022-11-07T11:15:34.104168","marked_time":"2022-11-23T10:58:59.442829","processed_time":"2022-11-07T11:48:57.651872","isLeaf":true,"cluster_name":"","class_name":"","processed_file_id":13882,"marked_file_id":219020}]

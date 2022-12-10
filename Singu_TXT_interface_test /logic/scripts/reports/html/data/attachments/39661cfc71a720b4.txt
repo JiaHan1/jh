@@ -1,0 +1,2 @@
+res_files_to_check: []
+[res_quality_check_refuse] ok

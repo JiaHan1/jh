@@ -1,0 +1,2 @@
+{'appId': '129', 'schema': [{'name': '元素38', 'multi': False, 'app': 129}, {'name': '元素40', 'multi': False, 'app': 129}, {'name': '元素39', 'multi': False, 'app': 129}, {'name': '元素41', 'multi': False, 'app': 129}]}
+[res_shcema_add] [{'id': 1613, 'name': '元素38', 'hotkey': '1', 'multi': False, 'app': 155}, {'id': 1614, 'name': '元素40', 'hotkey': '2', 'multi': False, 'app': 155}, {'id': 1615, 'name': '元素39', 'hotkey': '3', 'multi': False, 'app': 155}, {'id': 1616, 'name': '元素41', 'hotkey': '4', 'multi': False, 'app': 155}]

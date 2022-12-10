@@ -1,0 +1,7 @@
+{'appId': '129', 'schema': [{'name': '元素37', 'multi': False, 'app': 129}, {'name': '元素38', 'multi': False, 'app': 129}, {'name': '元素39', 'multi': False, 'app': 129}]}
+[res_shcema_add] [{'id': 1598, 'name': '元素39', 'hotkey': '3', 'multi': False, 'app': 155}]
+r_data 3
+{'appId': '129', 'schema': [{'name': '元素37', 'multi': False, 'app': 129}, {'name': '元素38', 'multi': False, 'app': 129}, {'name': '元素39', 'multi': False, 'app': 129}, {'name': '元素40', 'multi': False, 'app': 129}]}
+[res_shcema_add] [{'id': 1599, 'name': '元素40', 'hotkey': '4', 'multi': False, 'app': 155}]
+r_data 4
+[res_schema_del] []

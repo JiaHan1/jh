@@ -1,0 +1,12 @@
+data {'0': {'marked_file_id': 218742, 'upload_time': '2022-11-07T11:15:34.581896', 'class': 'default', 'filename': '华泰启泰科瑞FOF1号集合资产管理计划_量锐41号私募证券投资基金_20210204_117513462_申购确认单.pdf.2.html', 'id': 218742, 'label_time': '2022-11-22T11:30:40.706182', 'image_list': []}}
+有1个文件放到测试集
+data {'1': {'marked_file_id': 218747, 'upload_time': '2022-11-07T11:15:35.779166', 'class': 'default', 'filename': '华泰启泰沪航FOF1号集合资产管理计划_九坤量化选股8号私募证券投资基金_20210104_110247350_申购确认单.pdf.2.html', 'id': 218747, 'label_time': '2022-11-22T11:30:41.072278', 'image_list': []}}
+有2个文件放到测试集
+data {'2': {'marked_file_id': 218738, 'upload_time': '2022-11-07T11:15:34.333971', 'class': 'default', 'filename': '华泰启泰鸿鼎FOF1号集合资产管理计划_天演储能私募证券投资基金_20210205_117728592_申购确认单.pdf.2.html', 'id': 218738, 'label_time': '2022-11-22T11:30:40.327848', 'image_list': []}}
+有3个文件放到测试集
+data {'3': {'marked_file_id': 211321, 'upload_time': '2022-11-01T14:05:28.997913', 'class': 'default', 'filename': '固德威首次公开发行股票并在科创板上市发行公告.pdf.html.2.html', 'id': 211321, 'label_time': '2022-11-01T14:58:53.107063', 'image_list': []}}
+有4个文件放到测试集
+data {'4': {'marked_file_id': 211320, 'upload_time': '2022-11-01T14:05:48.371392', 'class': 'default', 'filename': '大宏立首次公开发行股票并在创业板上市发行公告.pdf.html.2.html', 'id': 211320, 'label_time': '2022-11-01T14:29:59.165106', 'image_list': []}}
+有5个文件放到测试集
+未获取到值： 5
+data {'5': None}

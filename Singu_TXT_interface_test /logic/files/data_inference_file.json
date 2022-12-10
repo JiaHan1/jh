@@ -1,0 +1,22 @@
+{
+        "list": [
+                {
+                        "id": 24708,
+                        "result_file": [],
+                        "has_result": false,
+                        "has_predict": false,
+                        "filename": "深圳市力合微电子股份有限公司.pdf",
+                        "pinyin": "shen1zhen4shi4li4he2wei1dian4zigu3fen4you3xian4gong1si1.pdf",
+                        "state": 1,
+                        "time_stamp": "2022-12-07T18:27:04.919759",
+                        "labeled_time": null,
+                        "processed_time": null,
+                        "user": 79,
+                        "file": 275176,
+                        "file_type": 8,
+                        "app": 155
+                }
+        ],
+        "page": 1,
+        "total": 1
+}

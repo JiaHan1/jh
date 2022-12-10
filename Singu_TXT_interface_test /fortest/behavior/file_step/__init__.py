@@ -1,0 +1,6 @@
+from behavior.file_step.import_file import ImportFileBehavior
+from behavior.file_step.upload_file import UploadFileBehavior
+from behavior.file_step.dispatch_file import DispatchFileBehavior
+from behavior.file_step.upload_samename_file import UploadSameNameFileBehavior
+from behavior.file_step.re_cluster import ReClusterBehavior
+from behavior.file_step.delete_file import DeleteFileBehavior

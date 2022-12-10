@@ -1,0 +1,2 @@
+{'labels': [{'name': '分类1'}, {'name': '分类2'}, {'name': '分类-35'}]}
+[res_add_class] [{'id': 750, 'name': '分类-35', 'app': 155}]
